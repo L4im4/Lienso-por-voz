@@ -1,0 +1,16 @@
+body{
+background-color: lightgreen;
+text-align: center;
+}
+
+h1{
+color: lightseagreen;
+}
+
+button{
+border: 8px dashed lightskyblue;
+}
+
+canvas{
+border: 10px dashed darkcyan;
+}
